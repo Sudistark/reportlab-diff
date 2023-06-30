@@ -28,7 +28,6 @@ docs/images/Edit_Prefs.gif
 docs/images/Python_21.gif
 docs/images/Python_21_HINT.gif
 docs/images/fileExchange.gif
-docs/images/jpegrgb_dissected.png
 docs/images/jpn.gif
 docs/images/jpnchars.jpg
 docs/images/lj8100.jpg
@@ -400,8 +399,6 @@ src/rl_addons/rl_accel/tests/t3.py
 src/rl_addons/rl_accel/tests/t4.py
 src/rl_addons/rl_accel/tests/t5.py
 tests/00readme.txt
-tests/7x11.jpg
-tests/7x11.png
 tests/__init__.py
 tests/_i_am_actually_a_gif.jpg
 tests/_i_am_actually_a_jpeg.gif
@@ -427,6 +424,8 @@ tests/test_graphics_barcode.py
 tests/test_graphics_charts.py
 tests/test_graphics_images-cairo.gif
 tests/test_graphics_images-cairo.png
+tests/test_graphics_images-libart.gif
+tests/test_graphics_images-libart.png
 tests/test_graphics_images.gif
 tests/test_graphics_images.png
 tests/test_graphics_images.py
